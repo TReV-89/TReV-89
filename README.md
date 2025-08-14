@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TReV-89  
 - 👀 I’m interested in smart energy systems, sustainable transportation, and algorithm design  
 - 🌱 I’m currently learning how to optimize electric bus charging using scheduling algorithms to reduce battery wear and fleet size  
-- 💞️ I’m looking to collaborate on projects related to electric mobility, energy efficiency, and applied optimization  
+- 💞️ I’m looking to collaborate on projects related to electric mobility, energy efficiency, and applied optimization
+- I'm interested in building AI systems and machine learning projects. I also love NLP and Agentic systems too.
 - 📫 How to reach me: linkedin.com/in/tsaaka/
 
 <!---
